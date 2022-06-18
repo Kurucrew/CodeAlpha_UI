@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UICpp.cpp.obj": [
+			"C_GameData.cpp.obj",
+			"C_Level.cpp.obj",
+			"C_PlayerController.cpp.obj",
+			"UICpp.cpp.obj",
+			"WC_Intro.cpp.obj",
+			"WPC_Button.cpp.obj",
+			"WPC_HitPoint.cpp.obj"
+		],
+		"Module.UICpp.gen.cpp.obj": [
+			"C_GameData.gen.cpp.obj",
+			"C_Level.gen.cpp.obj",
+			"C_PlayerController.gen.cpp.obj",
+			"UICpp.init.gen.cpp.obj",
+			"WC_Intro.gen.cpp.obj",
+			"WPC_Button.gen.cpp.obj",
+			"WPC_HitPoint.gen.cpp.obj"
+		]
+	}
+}

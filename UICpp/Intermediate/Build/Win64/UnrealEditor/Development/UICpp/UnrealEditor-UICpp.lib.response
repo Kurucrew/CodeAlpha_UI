@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UICpp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE Project\ATeam_01\ProjectA\Intermediate\Build\Win64\ProjectAEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE Project\ATeam_01\ProjectA\Plugins\UICpp\Intermediate\Build\Win64\UnrealEditor\Development\UICpp\Module.UICpp.cpp.obj"
+"D:\UE Project\ATeam_01\ProjectA\Plugins\UICpp\Intermediate\Build\Win64\UnrealEditor\Development\UICpp\Module.UICpp.gen.cpp.obj"
+"D:\UE Project\ATeam_01\ProjectA\Plugins\UICpp\Intermediate\Build\Win64\UnrealEditor\Development\UICpp\Default.rc2.res"
+/OUT:"D:\UE Project\ATeam_01\ProjectA\Plugins\UICpp\Intermediate\Build\Win64\UnrealEditor\Development\UICpp\UnrealEditor-UICpp.lib"
